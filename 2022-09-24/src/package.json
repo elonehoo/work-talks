@@ -1,0 +1,14 @@
+{
+  "name": "contract-ppt",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --port 3333 --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "0.35.6",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
