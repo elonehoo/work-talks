@@ -1,5 +1,4 @@
 {
-  "name": "contract-ppt",
   "private": true,
   "scripts": {
     "build": "slidev build",
