@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@iconify/json": "^2.0.25",
-    "@slidev/cli": "0.35.6",
+    "@slidev/cli": "0.36.7",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.18.1",
