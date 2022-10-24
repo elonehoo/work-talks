@@ -6,12 +6,12 @@
     "one-build": "pnpm -C 2022-09-24/src run build"
   },
   "devDependencies": {
-    "@iconify/json": "^2.0.25",
-    "@slidev/cli": "0.35.6",
+    "@iconify/json": "^2.1.127",
+    "@slidev/cli": "0.36.7",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.18.1",
-    "pnpm": "^6.30.0",
+    "playwright-chromium": "^1.27.1",
+    "pnpm": "^6.35.0",
     "rimraf": "^3.0.2"
   }
 }
