@@ -9,7 +9,7 @@ importers:
       '@slidev/theme-default': '*'
       '@slidev/theme-seriph': '*'
       playwright-chromium: ^1.27.1
-      pnpm: ^6.35.0
+      pnpm: ^7.14.2
       rimraf: ^3.0.2
     devDependencies:
       '@iconify/json': 2.1.127
@@ -17,7 +17,7 @@ importers:
       '@slidev/theme-default': 0.21.2
       '@slidev/theme-seriph': 0.21.3
       playwright-chromium: 1.27.1
-      pnpm: 6.35.0
+      pnpm: 7.14.2
       rimraf: 3.0.2
 
   2022-09-24/src:
@@ -2772,9 +2772,9 @@ packages:
     hasBin: true
     dev: true
 
-  /pnpm/6.35.0:
-    resolution: {integrity: sha512-XKAxyK1weNV0x8Ip8/beHY1JGcO8c8fnYNL4yzZx3TxZjYOYY6r2ltrUM2R8vCD+Vmjtbq1YAKhIT7Q4Q79XSg==}
-    engines: {node: '>=12.17'}
+  /pnpm/7.14.2:
+    resolution: {integrity: sha512-NSxrIaRW07jFQQ1fPFFOA8eMfuogsMeygOKd3zaFgyJBdo1oh61jl2JjWc+w0XNzWIMG7/v9HK7nP8RTL5NO3g==}
+    engines: {node: '>=14.6'}
     hasBin: true
     dev: true
 
