@@ -11,7 +11,7 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.27.1",
-    "pnpm": "^6.35.0",
+    "pnpm": "^7.14.2",
     "rimraf": "^3.0.2"
   }
 }
