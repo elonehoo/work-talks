@@ -12,6 +12,6 @@
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.29.1",
     "pnpm": "^7.22.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.4.1"
   }
 }
